@@ -1,4 +1,3 @@
-
 UTF-8 encoded sample plain-text file
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
@@ -19,7 +18,7 @@ Mathematics and sciences:
                                             ⎪⎢⎜⎷ c₈   ⎟⎥⎪
   ℕ ⊆ ℕ₀ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ,                   ⎨⎢⎜       ⎟⎥⎬
                                             ⎪⎢⎜ ∞     ⎟⎥⎪
-  ⊥ < a ≠ b ≡ c ≤ d ≪ ⊤ ⇒ (⟦A⟧ ⇔ ⟪B⟫),      ⎪⎢⎜ ⎲     ⎟⎥⎪
+  ⊥ < a ≠ b ≡ c ≤ d ≪ ⊤ ⇒ ⟦A⟧ ⇔ ⟪B⟫),      ⎪⎢⎜ ⎲     ⎟⎥⎪
                                             ⎪⎢⎜ ⎳aⁱ-bⁱ⎟⎥⎪
   2H₂ + O₂ ⇌ 2H₂O, R = 4.7 kΩ, ⌀ 200 mm     ⎩⎣⎝i=1    ⎠⎦⎭
 
@@ -35,21 +34,21 @@ APL:
 Nicer typography in plain text files:
 
   ╔══════════════════════════════════════════╗
-  ║                                          ║
-  ║   • ‘single’ and “double” quotes         ║
-  ║                                          ║
-  ║   • Curly apostrophes: “We’ve been here” ║
-  ║                                          ║
-  ║   • Latin-1 apostrophe and accents: '´`  ║
-  ║                                          ║
-  ║   • ‚deutsche‘ „Anführungszeichen“       ║
-  ║                                          ║
-  ║   • †, ‡, ‰, •, 3–4, —, −5/+5, ™, …      ║
-  ║                                          ║
-  ║   • ASCII safety test: 1lI|, 0OD, 8B     ║
-  ║                      ╭─────────╮         ║
-  ║   • the euro symbol: │ 14.95 € │         ║
-  ║                      ╰─────────╯         ║
+  ║                                                                        ║
+  ║   • ‘single’ and “double” quotes                                       ║
+  ║                                                                        ║
+  ║   • Curly apostrophes: “We’ve been here”                               ║
+  ║                                                                        ║
+  ║   • Latin-1 apostrophe and accents: '´`                                ║
+  ║                                                                        ║
+  ║   • ‚deutsche‘ „Anführungszeichen“                                     ║
+  ║                                                                        ║
+  ║   • †, ‡, ‰, •, 3–4, —, −5/+5, ™, …                                    ║
+  ║                                                                        ║
+  ║   • ASCII safety test: 1lI|, 0OD, 8B                                   ║
+  ║                                                                        ║
+  ║   • the euro symbol: │ 14.95 € │                                       ║
+  ║                                                                        ║  
   ╚══════════════════════════════════════════╝
 
 Combining characters:
